@@ -19,7 +19,7 @@ git push origin master
 
 git add . 
 git commit - "message"
-gir push origin master 
+git push origin master 
 //now that it is all done you just have to put three lines above to start pushing//
 
 
